@@ -1,6 +1,5 @@
 ## ios_super_sign
-
-＃#####转载自https://github.com/xujimu/ios_super_sign
+####转载自https://github.com/xujimu/ios_super_sign
 
 ###### 超级签名 免签封装 安卓打包 企业签名 自助分发多合一系统
 
@@ -169,7 +168,7 @@
 本项目前后端一体,所以没有好看的ui,有需要的可以自行克隆二开,开源不易如果对你有帮助的话请点个start吧！
 
 前端地址:https://github.com/xujimu/ios_super_sign_vue
-搭建视频: https://cloud.189.cn/t/qmQB7fvaYba2 (访问码:rqo8)
+搭建视频:  (访问码:rqo8)
 
 ### 展示
 
