@@ -1,5 +1,7 @@
 ## ios_super_sign
 
+＃#####转载自https://github.com/xujimu/ios_super_sign
+
 ###### 超级签名 免签封装 安卓打包 企业签名 自助分发多合一系统
 
 ### 主要功能
